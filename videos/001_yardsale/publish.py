@@ -28,6 +28,8 @@ What we ran
 - Talent test: 100 of 1,000 agents win 55% of their flips; 200 runs of 10,000 rounds.
 - Flat wealth tax of 0.1% and 1% per round, redistributed equally.
 
+Code and raw results: https://github.com/klogOo/simulated-societies
+
 Sources
 - A. Chakraborti, "Distributions of money in model markets of economy" (2002)
 - B. Hayes, "Follow the Money", American Scientist (2002), origin of the name "yard sale model"

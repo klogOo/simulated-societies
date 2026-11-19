@@ -37,6 +37,8 @@ What we ran
 - Sensitivity: talent spread 0.05 / 0.1 / 0.2 and 250 / 500 / 1,000 events (1,000 histories each).
 In the model, "talent" stands for anything that helps you use an opportunity: skill, intelligence, hard work.
 
+Code and raw results: https://github.com/klogOo/simulated-societies
+
 Sources
 - A. Pluchino, A. E. Biondo, A. Rapisarda, "Talent vs Luck: the role of randomness in success and failure", Advances in Complex Systems 21 (2018), arXiv:1802.07068
 
