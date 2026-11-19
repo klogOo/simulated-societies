@@ -1,0 +1,8 @@
+numpy
+scipy
+skia-python
+soundfile
+imageio-ffmpeg
+# only for uploading and analytics (engine/youtube.py, engine/analytics.py)
+google-api-python-client
+google-auth-oauthlib
